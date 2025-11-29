@@ -6,7 +6,7 @@ I'm a Machine Learning & Data Science student at **CentraleSupélec (Université
 
 I enjoy designing intelligent systems from **RAG pipelines** and **NLP applications** to **full‑stack AI tools**. I love building things end‑to‑end and turning ideas into working solutions.
 
-📍 **Currently looking for a 6‑month Machine Learning / Data Science internship starting March 2026**, ideally in an international and innovation‑driven environment.
+**Currently looking for a 6‑month Machine Learning / Data Science internship starting March 2026**, ideally in an international and innovation‑driven environment.
 
 ---
 
@@ -89,6 +89,6 @@ I'm always open to collaborating on ambitious AI or software projects. Feel free
 ## Get in Touch
 
 **Email:** ppeytevin@gmail.com
-**LinkedIn:** [(add here)](https://www.linkedin.com/in/paul-peytevin-2a4a5b297/)
+**LinkedIn:** [link](https://www.linkedin.com/in/paul-peytevin-2a4a5b297/)
 
 Thanks for visiting my GitHub
